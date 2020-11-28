@@ -1,0 +1,21 @@
+ .c1{
+ 	align-self: 
+ border: 2px solid red;
+ background-color: white;
+ margin-top: 40px;
+ margin-left: 400px;
+ width: 400px;
+  height: auto;
+  border-radius: 18px;
+}
+.h1{
+	text-align: center;
+}
+.c2{
+	margin-left: 400px;
+	height : 640px;
+	width: 400px;
+	background-color: #ffcc99;
+	border: 2px solid white;
+	border-radius: 18px;
+}
